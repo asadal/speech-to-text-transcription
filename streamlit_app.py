@@ -41,7 +41,7 @@ with c2:
         f = st.file_uploader("", type=[".wav"])
 
         st.info(
-            f"""
+            """
                     👆 Upload a .wav file. Try a sample: [Sample 01](https://github.com/CharlyWargnier/CSVHub/blob/main/Wave_files_demos/Welcome.wav?raw=true) | [Sample 02](https://github.com/CharlyWargnier/CSVHub/blob/main/Wave_files_demos/The_National_Park.wav?raw=true)
                     """
         )
